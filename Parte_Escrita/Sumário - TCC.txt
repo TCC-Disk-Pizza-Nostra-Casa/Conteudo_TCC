@@ -1,0 +1,40 @@
+1. Introdução.
+
+2. Banco de Dados
+
+    2.1. DER;
+    2.2. Projeto Lógico;
+    2.3. Projeto Físico.
+
+3. Tabelas.
+
+4. Ferramentas Utilizadas no Desenvolvimento do Sistema
+
+    4.1. BrModelo;
+    4.2. Lucidchart;
+    4.3. MySQL Workbench 8.0 CE;
+    4.4. Visual Studio Code;
+    4.5. Visual Studio Community 2022.
+
+5. Linguagens Utilizadas no Desenvolvimento do Sistema
+
+    5.1. SQL;
+    5.2. C#;
+        5.2.1. O que é uma aplicação responsiva?
+    5.3. PHP
+        5.3.1. O que é uma API?
+
+6. Telas do Sistema.
+
+    6.1. Tela de Login;
+    6.2. Tela Principal;
+    6.3. Tela de Cadastro e Edição de Funcionários;
+    6.4. Tela de Listagem de Funcionários;
+    6.5. Tela de Cadastro e Edição de Produtos;
+    6.6. Tela de Listagem de Produtos;
+    6.7. Tela de Adição de uma Nova Venda;
+    6.8. Tela de Listagem de Vendas;
+
+7. Conclusão.
+
+8. Referências Bibliográficas.
